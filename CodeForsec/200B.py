@@ -1,0 +1,1 @@
+n, p = int(input()), list(map(int, input().split())); print(f"{sum(p) / n:=.{12}f}")
